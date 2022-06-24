@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 👋
+I'm a passionate **software engineer** based in Milan with strong theoretical knowledge and eye for details. 
+I use **computer vision** to solve real life challenges since python 2.7 developing **minimum viable products** and **proof of concept** applications.
+
+💻🎓 Computer Science student at Milano Bicocca.
+
+🔮👁️ Currenty building [MagicVisionAI](https://magicvision.ai/)
 
 <!--
 **lanzani/lanzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
