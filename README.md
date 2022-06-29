@@ -1,7 +1,7 @@
 ### Hi! 👋
 I'm a passionate **software engineer** based in Milan with strong theoretical knowledge and eye for details.
 
-I use **computer vision** to solve real life challenges since python 2.7 developing **minimum viable products** and **proof of concept** applications.
+I use **machine learning** and **computer vision** to solve real life challenges since python 2.7 developing **minimum viable products** and **proof of concept** applications.
 
 💻🎓 Computer Science student at Milano Bicocca.
 
