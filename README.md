@@ -1,11 +1,30 @@
-### Hi! 👋
-I'm a passionate **software engineer** based in Milan with strong theoretical knowledge and eye for details.
+![800x400-blog-redqueen](https://user-images.githubusercontent.com/15637306/186184638-41400914-d028-4ead-98cf-5e49d7433271.jpg)
 
-I use **machine learning** and **computer vision** to solve real life challenges since python 2.7 developing **minimum viable products** and **proof of concept** applications.
+> “My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.”
+> 
+> ~ Lewis Carroll, Alice in Wonderland
 
-💻🎓 Computer Science student at Milano Bicocca.
+
+I repeatedly fall into rabbit holes, sometimes I got pen and paper with me, so I can share what is interesting.
+
+# About me
+Formally, I'm a passionate **software engineer** based in Milano with strong theoretical knowledge and an eye for details. 
+
+I use **machine learning** and **computer vision** to solve real life problems since python 2.7, developing **minimum viable products** and **proof of concept** applications. 
+
+🎓 Computer Science student at Milano Bicocca 
 
 🔮👁️ Currenty building [MagicVisionAI](https://magicvision.ai/)
+
+## Contacts
+[(Twitter) _@FederLanzani_](https://twitter.com/FederLanzani)    ⬅️ Follow my movements 👀
+
+[(Medium) _@lanzani_](https://medium.com/@lanzani)    ⬅️ I pretend to be a blogger 🤷‍♂️ 
+
+[(Website) _federicolanzani.com_](https://federicolanzani.com)    ⬅️ More about me (nothing special)
+
+
+
 
 <!--
 **lanzani/lanzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
