@@ -1,4 +1,4 @@
-![800x400-blog-redqueen](https://user-images.githubusercontent.com/15637306/186184638-41400914-d028-4ead-98cf-5e49d7433271.jpg)
+![bongard-banner](https://user-images.githubusercontent.com/15637306/206859874-fe639e56-5544-4cad-81f4-bb8e0bc5e702.jpg)
 
 > “My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.”
 > 
