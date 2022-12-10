@@ -1,4 +1,4 @@
-![bongard-banner](https://user-images.githubusercontent.com/15637306/206859874-fe639e56-5544-4cad-81f4-bb8e0bc5e702.jpg)
+![bongard-banner-c](https://user-images.githubusercontent.com/15637306/206859980-5e83fa60-0a1c-4ec1-b06c-87efd2330ba9.jpg)
 
 > “My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.”
 > 
