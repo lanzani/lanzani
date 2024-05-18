@@ -1,29 +1,22 @@
-![bongard-banner-c](https://user-images.githubusercontent.com/15637306/206859980-5e83fa60-0a1c-4ec1-b06c-87efd2330ba9.jpg)
+![ccDSC_3698](https://github.com/lanzani/lanzani/assets/15637306/e82320c1-3908-47d7-b2b2-b5f606a2c338)
 
-> “My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.”
-> 
-> ~ Lewis Carroll, Alice in Wonderland
+I'm a **software engineer** who really likes to [build things](https://federicolanzani.com/projects).
 
+Co-Founder and CTO of [Magic Vision](https://magicvision.ai): elderly care using **artificial intelligence**.
 
-I repeatedly fall into rabbit holes, sometimes I got pen and paper with me, so I can share what is interesting.
+I like to discuss about **technology** and **humanity** through my [medium publication](https://medium.com/brass-for-brain) and my [blog](https://medium.com/@lanzani).
 
-# About me
-Formally, I'm a passionate **software engineer** based in Milano with strong theoretical knowledge and an eye for details. 
+I occasionaly give **talks** like [this one](https://youtu.be/Dh119bpw0aw) or [this one](https://youtu.be/_tNEm2FIv5M).
 
-I use **machine learning** and **computer vision** to solve real life problems since python 2.7, developing **minimum viable products** and **proof of concept** applications. 
+## What's next?
+If you want to know more check my [about](https://federicolanzani.com/about) or my [website](https://federicolanzani.com/).
 
-🎓 Computer Science student at Milano Bicocca 
-
-🔮👁️ Currenty building [MagicVisionAI](https://magicvision.ai/)
-
-## Contacts
-[(Twitter) _@FederLanzani_](https://twitter.com/FederLanzani)    ⬅️ Follow my movements 👀
-
-[(Medium) _@lanzani_](https://medium.com/@lanzani)    ⬅️ I pretend to be a blogger 🤷‍♂️ 
-
-[(Website) _federicolanzani.com_](https://federicolanzani.com)    ⬅️ More about me (nothing special)
-
-
+You can follow me on
+- [Twitter](https://x.com/FederLanzani)
+- [Linkedin](https://www.linkedin.com/in/lanzani/)
+- [Medium](https://medium.com/@lanzani)
+- [GitHub](https://github.com/lanzani)
+- [Youtube](https://www.youtube.com/@federico_lanzani)
 
 
 <!--
