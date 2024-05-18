@@ -11,12 +11,9 @@ I occasionaly give **talks** like [this one](https://youtu.be/Dh119bpw0aw) or [t
 ## What's next?
 If you want to know more check my [about](https://federicolanzani.com/about) or my [website](https://federicolanzani.com/).
 
-You can follow me on
-- [Twitter](https://x.com/FederLanzani)
-- [Linkedin](https://www.linkedin.com/in/lanzani/)
-- [Medium](https://medium.com/@lanzani)
-- [GitHub](https://github.com/lanzani)
-- [Youtube](https://www.youtube.com/@federico_lanzani)
+You can follow me on:
+
+[Twitter](https://x.com/FederLanzani) • [Linkedin](https://www.linkedin.com/in/lanzani/) • [Medium](https://medium.com/@lanzani) • [GitHub](https://github.com/lanzani) • [Youtube](https://www.youtube.com/@federico_lanzani)
 
 
 <!--
